@@ -9,3 +9,27 @@ In this project, you will discover the problem of face recognition and how deep 
 ## Dataset Link
 https://www.kaggle.com/sushilyadav1998/bollywood-celeb-localized-face-dataset
 
+## WebApp Demo
+
+web app look
+
+![1](https://user-images.githubusercontent.com/84785447/145554087-896db803-a67d-42f7-9b12-c358edd71a5c.png)
+
+Lets test some of the images
+
+![1](https://user-images.githubusercontent.com/84785447/145554434-5041e3fc-cd38-4c2b-bee3-313d3a061c86.png)
+
+
+![1](https://user-images.githubusercontent.com/84785447/145556008-a9eaec78-07fc-4e0e-a932-6a8434af8210.png)
+
+
+![1](https://user-images.githubusercontent.com/84785447/145556787-f9697ba5-7600-47f7-9b4c-2302807a433b.png)
+
+
+## To start the webapp run the following command
+
+Streamlit run app.py
+
+
+
+
